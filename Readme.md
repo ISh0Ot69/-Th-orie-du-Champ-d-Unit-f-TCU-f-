@@ -30,7 +30,7 @@ $$\Box f(x,t) = \frac{8\pi G}{c^2} T(x,t) + \Lambda_f$$
 ---
 
 ## 4. Couplage à l’énergie et à la masse
-La formule complète, intégrant la résonance **Omega** (maintenue à **100%**), est :
+La formule complète,
 
 $$\frac{E_r}{E_l} = \frac{M_r}{M_l} + \frac{f(x,t)}{c^2}$$
 
