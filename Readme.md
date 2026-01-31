@@ -65,7 +65,6 @@ $$\frac{E_r}{E_l} = \frac{M_r}{M_l} + \frac{f(x,t)}{c^2}$$
 * **Poisson (gravité faible) :** $\nabla^2 f = \frac{8\pi G}{c^2} \rho + \Lambda_f$
 * **Dirac (échelle atomique) :** $(i\hbar \gamma^\mu \partial_\mu - m_{\rm eff} c)\psi = 0$ avec $m_{\rm eff} = m + f/c^2$
 * **Friedmann (cosmologie) :** $H^2 = \frac{8\pi G}{3} (\rho + f/c^2) - \frac{k}{a^2}$
-
 - **GPS (dilatation gravitationnelle) :**  
 $$\[
 \Delta t / t \approx - f/c^2
@@ -89,6 +88,10 @@ $$\[
 - Visualiser l’universalité via graphiques f/c² vs échelle  
 - Explorer prédictions nouvelles pour tester la TCU‑f dans des régimes non observés
 ---
-
+|                         |
+|   TOUS DROITS RÉSERVÉS  |
+|   © [Jean-Etienne LEPOUTRE]
+[2026] |
+|_________________________|
 ---
 
